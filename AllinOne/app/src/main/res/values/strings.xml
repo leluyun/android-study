@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">All in One</string>
+    <string-array name="activity_main_catalog">
+        <item>@string/catalog_component</item>
+        <item>@string/catalog_control</item>
+        <item>@string/catalog_data</item>
+        <item>@string/catalog_network</item>
+    </string-array>
+    <string name="catalog_component">四大组件</string>
+    <string name="catalog_control">常用控件</string>
+    <string name="catalog_data">数据处理</string>
+    <string name="catalog_network">网络交互</string>
+</resources>
